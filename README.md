@@ -11,9 +11,6 @@
 <img align="left" alt= "C++" width="30px" src="https://i.ibb.co/jhv07kx/c.png" />
 <img align="left" alt= "Python" width="30px" src="https://i.ibb.co/V33DMrQ/python.png" />
 <img align="left" alt= "Node.js" height="30px" src="https://i.ibb.co/ZVGGFfz/nodejs.png" />
-<img align="left" alt= "Photoshop" width="30px" src="https://i.ibb.co/f8X8b0C/photoshop.png" />
-<img align="left" alt= "Illustrator" width="30px" src="https://i.ibb.co/frmFxZL/illustartor.png" />
-<img align="left" alt= "Premiere" width="30px" src="https://i.ibb.co/xg3SZ3W/premiere.png" />
 <img align="left" alt= "Github" width="30px" src="https://i.ibb.co/4W3kdkp/GitHub.png" />
 <img align="left" alt= "Git" width="30px" src="https://i.ibb.co/0FNQXMy/git.png" />
 <img align="left" alt= "Intellij" width="30px" src="https://i.ibb.co/rMJzrfk/Intelli-JIDEA.png" />
