@@ -23,6 +23,6 @@
 
 ---
 
-<img align="left" alt="roei-birger Github Status" src="https://github-readme-stats.vercel.app/api?username=roei-birger&show_icons=true&theme=onedark">
+<img align="left" alt="roei-birger Github Status" src="https://github-readme-stats.vercel.app/api?username=roei-birger&show_icons=true&theme=solarized-dark">
 
-<img align="left" alt="roei-birger Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roei-birger&layout=compact&theme=onedark">
+<img align="left" alt="roei-birger Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roei-birger&layout=compact&theme=solarized-dark">
